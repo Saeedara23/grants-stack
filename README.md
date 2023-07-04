@@ -8,7 +8,7 @@ This repository contains packages needed for a user to
 Project Maintained via  : `turborepo`
 Package manager         : `pnpm`
 
-## Directory Structure
+## Directory Structures
 
 ```
 .
@@ -23,7 +23,7 @@ Package manager         : `pnpm`
 └── README.md
 ```
 
-## Git Hooks
+## Git Hook
 You can optionally enable pre-commit git hooks that autoformat your changed code using prettier.
 
 ```bash
@@ -33,11 +33,11 @@ lefthook install
 
 inspect the current hook configuration in [lefthook.yml](lefthook.yml)
 
-## contracts
+## contract
 
 The contracts needed for running a round can be found within the [Allo contracts repository](https://github.com/Allo-Protocol/contracts)
 
-### graph
+### graphs
 
 The subgraph which indexs data with regard the
 - ProgramFactory
@@ -60,7 +60,7 @@ This package serves the app which holds all the features w.r.t to
 
 More information can be found within the [round-manager package](packages/round-manager)
 
-##### Development
+##### Developments
 
 We welcome external contributions. Please make sure to familiarize yourself with the [Contribution Guide](CONTRIBUTING.md).
 
